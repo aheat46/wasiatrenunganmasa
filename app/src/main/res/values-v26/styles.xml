@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyToolbarTheme" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:theme">@style/Theme.AppCompat</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:iconTint"></item>
+    </style>
+</resources>

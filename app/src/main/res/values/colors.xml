@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1a8c26</color>
+    <color name="colorPrimaryDark">#075c14</color>
+    <color name="colorAccent">#43d752</color>
+    <color name="color_white">#FFFFFF</color>
+
+    <color name="color_background_nav_bottom">#eaffffff</color>
+    <color name="color_nav_bottom">#c74a11</color>
+    <color name="tab_indent">#86fff3</color>
+
+    <color name="sidebar_background_header">#117315</color>
+    <color name="sidebar_background_body">#f8cdffea</color>
+    <color name="sidebar_menu_color">#646363</color>
+</resources>

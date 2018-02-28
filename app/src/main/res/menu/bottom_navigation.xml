@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_add_bookmark"
+        android:title="@string/title_bookmark"
+        android:icon="@drawable/ic_menu_bookmark_off" />
+
+    <item
+        android:id="@+id/navigation_send"
+        android:title="@string/title_send"
+        android:icon="@drawable/ic_menu_send" />
+
+    <item
+        android:id="@+id/navigation_share"
+        android:title="@string/title_share"
+        android:icon="@drawable/ic_menu_share" />
+
+</menu>

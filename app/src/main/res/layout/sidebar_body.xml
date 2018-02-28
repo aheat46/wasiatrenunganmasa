@@ -1,0 +1,13 @@
+<android.support.design.widget.NavigationView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="start"
+    android:fitsSystemWindows="true"
+    android:background="@color/sidebar_background_body"
+    app:itemIconTint="@color/sidebar_menu_color"
+    app:itemTextColor="@color/sidebar_menu_color"
+    app:itemTextAppearance="@style/Sideber.Title"
+    app:menu="@menu/sidebar_menu" />

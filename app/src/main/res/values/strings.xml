@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Wasiat Renungan Masa</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nama_ponpes">YAYASAN PONDOK PESANTREN SYAIKH ZAINUDDIN</string>
+    <string name="alamat_ponpes">NAHDLATUL WATHAN ANJANI LOMBOK TIMUR</string>
+    
+    <string name="title_wasiat">Wasiat</string>
+    <string name="title_bookmark">Favorit</string>
+    <string name="title_history">Riwayat</string>
+    <string name="title_settings">Pengaturan</string>
+    <string name="title_about">Tentang Aplikasi</string>
+    <string name="title_help">Bantuan</string>
+    <string name="title_rating">Beri Rating</string>
+
+    <string name="title_detail">Detail Wasiat</string>
+    <string name="title_send">Send</string>
+    <string name="title_share">Share</string>
+
+    <string name="title_number">01</string>
+    <string name="title_judul">Judul</string>
+    <string name="title_isi">Isi</string>
+    <string name="title_action">TODO</string>
+    <string name="text_empty">Kosong</string>
+</resources>
